@@ -1,0 +1,7 @@
+aiogram
+pillow
+qrcode
+pyzbar
+aiofiles
+pandas
+openpyxl
